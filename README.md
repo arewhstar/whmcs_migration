@@ -1,4 +1,4 @@
-Futtatás:
+## Futtatás:
 
 composer install
 
@@ -6,7 +6,7 @@ cd src
 
 php ./migration_prepare.php
 
-
+## Kérdések
 
 
 Milyen IDE-t, tool-t használtál a megoldáshoz?
