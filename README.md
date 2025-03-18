@@ -1,3 +1,7 @@
+## Konfiguráció:
+
+.env fájlban lehet a sémákat futtató adatbázisok paramétereit megadni
+
 ## Futtatás:
 
 composer install
