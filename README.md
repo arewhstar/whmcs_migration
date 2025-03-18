@@ -20,10 +20,10 @@ Honnan szerezted be az esetleges hiányzó infót?
  - Laravel Eloquent ORM doksi, chatgpt, deepseek
 
 Körülbelül mennyi időre volt szükség a megoldáshoz?
-     - 6 óra kb
+   - 6 óra kb
 
 Találkoztál olyan fogalommal, megoldással a feladat implementálása közben, ami eddigi karriered során nem jelent meg? Mi volt az?
-    - Az Eloquent ORM kapcsán minden új volt, mert még sose használtam, viszont maga az általános fogalmakkal, eszközökkel már találkoztam.
+   - Az Eloquent ORM kapcsán minden új volt, mert még sose használtam, viszont maga az általános fogalmakkal, eszközökkel már találkoztam.
 
 Volt olyan rész, ami nehézséget okozott? Miért?
    - Összeségében nem volt egyértelmű meddig terjed a migráció előkészítése. Mennyire nyúljak bele a táblákba, így annyit készítettem elő, hogy szinkronba hoztam a migrálandó séma tábláinak azonosítóit, hogy ne ütközzön a migrálás során.
